@@ -1,0 +1,6 @@
+borough	num_residential_noise_complaints
+BRONX	69
+BROOKLYN	159
+MANHATTAN	33
+QUEENS	119
+STATEN ISLAND	12

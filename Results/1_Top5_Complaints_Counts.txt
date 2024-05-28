@@ -1,0 +1,6 @@
+complaint_type	num_complaints
+Noise - Residential	392
+Noise - Street/Sidewalk	269
+Illegal Parking	83
+Noise - Commercial	49
+Noise - Vehicle	43

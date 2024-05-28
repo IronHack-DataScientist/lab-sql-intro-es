@@ -1,0 +1,7 @@
+borough	num_complaints
+BRONX	228
+BROOKLYN	283
+MANHATTAN	178
+QUEENS	288
+STATEN ISLAND	22
+Unspecified	1

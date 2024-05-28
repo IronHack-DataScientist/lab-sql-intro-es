@@ -1,0 +1,47 @@
+complaint_type	num_complaints
+Abandoned Vehicle	2
+Animal-Abuse	1
+Blocked Driveway	42
+Commercial Disposal Complaint	2
+Consumer Complaint	1
+Damaged Tree	1
+Dead Animal	1
+Dirty Condition	2
+Drinking	4
+Drug Activity	2
+ELECTRIC	1
+Encampment	5
+Food Establishment	1
+For Hire Vehicle Complaint	3
+Graffiti	1
+HEAT/HOT WATER	1
+Homeless Person Assistance	2
+Illegal Dumping	3
+Illegal Fireworks	20
+Illegal Parking	83
+Illegal Tree Damage	1
+Litter Basket Request	1
+Maintenance or Facility	8
+Missed Collection	1
+New Tree Request	1
+Noise	3
+Noise - Commercial	49
+Noise - Park	16
+Noise - Residential	392
+Noise - Street/Sidewalk	269
+Noise - Vehicle	43
+Non-Emergency Police Matter	4
+PAINT/PLASTER	1
+PLUMBING	2
+Panhandling	2
+Rodent	4
+SAFETY	4
+Sidewalk Condition	1
+Street Condition	6
+Street Light Condition	2
+Traffic	2
+UNSANITARY CONDITION	5
+Vendor Enforcement	1
+Violation of Park Rules	1
+WATER LEAK	2
+Water System	1
